@@ -1,1 +1,1 @@
-# SCA-Assessment
+# SCA-Minna-Assessment
